@@ -1,2 +1,3 @@
 SATHEE is an initiative by the Ministry of Education to give students free learning and assessment platform.
 The preparation material will be available in English,
+Hindi, and other regional languages of India to prepare for competitive exams like JEE and NEET.
